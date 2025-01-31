@@ -14,9 +14,9 @@ $ ./push_swap 4 67 3 87 23 ...
 
 ###  📊 Benchmark Performance
 
-🏆 Sorts 100 numbers in ~550 moves (Goal: <700 moves)
+🏆 Sorts 100 numbers in ~650 moves (Goal: <700 moves)
 
-🔥 Sorts 500 numbers in ~4900 moves (Goal: <5500 moves)
+🔥 Sorts 500 numbers in ~5000 moves (Goal: <5500 moves)
 
 ###  🛠️ Features
 
